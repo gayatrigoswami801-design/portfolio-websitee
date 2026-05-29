@@ -2,7 +2,7 @@
 🌐 Personal Portfolio Website
 
 A fully responsive Personal Portfolio Website built using HTML, CSS, and JavaScript with a working contact form integration using services like Web3Forms/Formspree/Getform.
-This project showcases personal details, projects, skills, and provides an easy way for visitors to contact you directly.
+This project showcases personal details, projects, skills, and provides an easy way for visitors to contact you directly..
 
 🚀 Features
 
