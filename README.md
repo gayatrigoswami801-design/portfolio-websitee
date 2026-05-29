@@ -63,9 +63,13 @@ Working contact form that sends messages directly to email.
 <img width="1040" height="466" alt="WhatsApp Image 2026-05-29 at 10 15 58 AM" src="https://github.com/user-attachments/assets/d1b4df2b-b193-444d-a126-045b91200141" />
 
 
-⚙️ How to Run the Project
+---
 
- -Clone the repository
+## ⚙️ How to Run the Project
+
+### 1️⃣ Clone the Repository
+
+
 git clone https://github.com/gayatrigoswami801-design/portfolio-websitee
  -Open the project folder
  -Run index.html in browser
@@ -75,27 +79,27 @@ Web3Forms
 Formspree
 Getform
 ----------
-- Form endpoint inside the form action.
+## 📌 Future Improvements
 
-<form action="https://formspree.io/f/xaqkbkga" method="POST">
- -------------
-  
-  📌 Future Improvements
--Add Dark Mode 🌙
--Add Animations
--Add Resume Download Option
--Add Backend Integration
+- Add Dark Mode 🌙
+- Add Animations ✨
+- Add Resume Download Option 📄
+- Add Backend Integration ⚡
 
+---
 
+## ⭐ Conclusion
 
-
-⭐ Conclusion
 This project helped in learning:
--Responsive Web Design
--Real-world Form Handling
--Frontend Development
--Portfolio Building
----------
+
+- Responsive Web Design
+- Real-world Form Handling
+- Frontend Development
+- Portfolio Building
+
+---
+  
+
 
 👩‍💻 Author
 
