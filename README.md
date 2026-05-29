@@ -67,18 +67,27 @@ Working contact form that sends messages directly to email.
 
 ## ⚙️ How to Run the Project
 
-### 1️⃣ Clone the Repository
+### 1️Clone the Repository
 
 
 git clone https://github.com/gayatrigoswami801-design/portfolio-websitee
- -Open the project folder
- -Run index.html in browser
+###2️⃣ Open the Project Folder
+---
+Open the project folder in VS code
+###3️⃣ Run the Website
+-----
+Open the index.html file in your browser.
+------
+
+You can also use the Live Server Extension in VS Code.
+-------
+ 
 -📬 Contact Form Setup
 This project uses free form services like:
 Web3Forms
 Formspree
 Getform
-----------
+
 ## 📌 Future Improvements
 
 - Add Dark Mode 🌙
