@@ -77,7 +77,7 @@ Getform
 
 ## 📌 Future Improvements
 
-- Add Dark Mode 🌙
+
 - Add Animations ✨
 - Add Resume Download Option 📄
 - Add Backend Integration ⚡
