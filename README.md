@@ -1,35 +1,61 @@
 # portfolio-websitee
+
+
 🌐 Personal Portfolio Website
 
-A fully responsive Personal Portfolio Website built using HTML, CSS, and JavaScript with a working contact form integration using services like Web3Forms/Formspree/Getform.
-This project showcases personal details, projects, skills, and provides an easy way for visitors to contact you directly..
+A fully responsive Personal Portfolio Website built using HTML, CSS, and JavaScript.
 
-🚀 Features
+It includes:
+- Personal details
+- Projects section
+- Skills section
+- Working contact form
 
-Responsive Design 📱💻
-Beautiful Modern UI ✨
-Home Section
-About Section
-Projects Section
-Contact Form with Email Support
-Smooth Navigation
-Clean and Structured Code
+The contact form integration uses:
+- Web3Forms
+- Formspree
+- Getform
 
-🛠️ Technologies Used
-HTML5
-CSS3
-JavaScript
-Formspree 
+This project provides an easy way for visitors to contact you directly.
 
-📂 Sections Included
-🏠 Home
+---
+
+## 🚀 Features
+
+- Responsive Design 📱💻
+- Beautiful Modern UI ✨
+- Home Section
+- About Section
+- Projects Section
+- Contact Form with Email Support
+- Smooth Navigation
+- Clean and Structured Code
+
+---
+
+## 🛠 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript
+- Formspree
+
+---
+
+## 📂 Sections Included
+
+### 🏠 Home
 Introduction with name, role, and welcome message.
-👩‍💻 About
+
+### 👨‍💻 About
 Information about skills, education, and interests.
-📁 Projects
+
+### 📁 Projects
 Showcase of projects with descriptions and links.
-📞 Contact
+
+### 📞 Contact
 Working contact form that sends messages directly to email.
+
 
 📸 Screenshots
 
