@@ -64,23 +64,10 @@ Working contact form that sends messages directly to email.
 
 
 ---
+# ⚙️ How to Run the Project
 
-## ⚙️ How to Run the Project
+1️⃣ Clone the repository using `git clone https://github.com/gayatrigoswami801-design/portfolio-websitee` → 2️⃣ Open the project folder in VS Code → 3️⃣ Open `index.html` in your browser → 4️⃣ (Optional) Use the Live Server Extension in VS Code for a better experience.
 
-### 1️Clone the Repository
-
-
-git clone https://github.com/gayatrigoswami801-design/portfolio-websitee
-###2️⃣ Open the Project Folder
----
-Open the project folder in VS code
-###3️⃣ Run the Website
------
-Open the index.html file in your browser.
-------
-
-You can also use the Live Server Extension in VS Code.
--------
  
 -📬 Contact Form Setup
 This project uses free form services like:
